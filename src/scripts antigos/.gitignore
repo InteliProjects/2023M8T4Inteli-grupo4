@@ -1,0 +1,5 @@
+/.env.tmpl
+/makefile
+/__pycache__
+/intelidata/__pycache__
+/tests/__pycache__
